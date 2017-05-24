@@ -410,7 +410,8 @@ INSERT INTO `purchases` (`id`, `buyer_name`, `book_id`, `added`) VALUES
 (197, 'Julian Peters', 28, '2009-09-11 11:51:00'),
 (198, 'Gavin Kelley', 53, '2006-02-25 13:54:00'),
 (199, 'Bailey Franklin', 3, '2003-11-25 16:58:00'),
-(200, 'Kennedy Lawson', 59, '2009-05-19 12:26:00');
+(200, 'Kennedy Lawson', 59, '2009-05-19 12:26:00'),
+(201, 'Sahar Avraham', 26, '1991-05-16 23:58:00');
 
 --
 -- Indexes for dumped tables
